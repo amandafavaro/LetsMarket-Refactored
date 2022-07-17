@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.2.32505.173
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetsMarket", "LetsMarket\LetsMarket.csproj", "{4B33A9A0-267F-45CC-BF9F-3ED5CE4A8851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetsMarket", "LetsMarket.csproj", "{67B1D91A-BF1B-435E-8527-1DC75EC646E0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{4B33A9A0-267F-45CC-BF9F-3ED5CE4A8851}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4B33A9A0-267F-45CC-BF9F-3ED5CE4A8851}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4B33A9A0-267F-45CC-BF9F-3ED5CE4A8851}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4B33A9A0-267F-45CC-BF9F-3ED5CE4A8851}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B1D91A-BF1B-435E-8527-1DC75EC646E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B1D91A-BF1B-435E-8527-1DC75EC646E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B1D91A-BF1B-435E-8527-1DC75EC646E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B1D91A-BF1B-435E-8527-1DC75EC646E0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BE7D6EDC-E078-4265-BEB8-748C5F9041DE}
+		SolutionGuid = {6ED707A8-8604-4856-85E1-612FF37F2C46}
 	EndGlobalSection
 EndGlobal
